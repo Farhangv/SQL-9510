@@ -1,0 +1,5 @@
+E:\Programming\Test\SQL-9510\CLRDemo\CLRDemo\bin\Debug\CLRDemo.dacpac
+E:\Programming\Test\SQL-9510\CLRDemo\CLRDemo\bin\Debug\CLRDemo.dll
+E:\Programming\Test\SQL-9510\CLRDemo\CLRDemo\bin\Debug\CLRDemo.pdb
+E:\Programming\Test\SQL-9510\CLRDemo\CLRDemo\obj\Debug\CLRDemo.dll
+E:\Programming\Test\SQL-9510\CLRDemo\CLRDemo\obj\Debug\CLRDemo.pdb
